@@ -358,3 +358,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+OpenGL/Dependencies/GLFW/lib-vc2015/glfw3dll.lib
+OpenGL/Dependencies/GLFW/lib-vc2015/glfw3.dll
+OpenGL/Dependencies/GLFW/lib-vc2015/glfw3.lib
