@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Application.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="src\doc_Application1.cpp">
+    <ClCompile Include="src\drawAnTriangle.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
