@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01-SettingUpWindow", "01-Se
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-VertexBufferAndDrawAnTriangle", "02-VertexBufferAndDrawAnTriangle\02-VertexBufferAndDrawAnTriangle.vcxproj", "{250BB82C-D88A-4DC4-ABD0-8DAC86D38C79}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-WritingAShader", "03-ritingAShader\03-ritingAShader.vcxproj", "{50B23127-C1BD-4B48-9A29-43AB0B274F32}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04-DealShaderFile", "04-DealShaderFile\04-DealShaderFile.vcxproj", "{6EC796EC-50B1-4FAD-98AE-353C504A5777}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,8 +45,27 @@ Global
 		{250BB82C-D88A-4DC4-ABD0-8DAC86D38C79}.Release|x64.Build.0 = Release|x64
 		{250BB82C-D88A-4DC4-ABD0-8DAC86D38C79}.Release|x86.ActiveCfg = Release|Win32
 		{250BB82C-D88A-4DC4-ABD0-8DAC86D38C79}.Release|x86.Build.0 = Release|Win32
+		{50B23127-C1BD-4B48-9A29-43AB0B274F32}.Debug|x64.ActiveCfg = Debug|x64
+		{50B23127-C1BD-4B48-9A29-43AB0B274F32}.Debug|x64.Build.0 = Debug|x64
+		{50B23127-C1BD-4B48-9A29-43AB0B274F32}.Debug|x86.ActiveCfg = Debug|Win32
+		{50B23127-C1BD-4B48-9A29-43AB0B274F32}.Debug|x86.Build.0 = Debug|Win32
+		{50B23127-C1BD-4B48-9A29-43AB0B274F32}.Release|x64.ActiveCfg = Release|x64
+		{50B23127-C1BD-4B48-9A29-43AB0B274F32}.Release|x64.Build.0 = Release|x64
+		{50B23127-C1BD-4B48-9A29-43AB0B274F32}.Release|x86.ActiveCfg = Release|Win32
+		{50B23127-C1BD-4B48-9A29-43AB0B274F32}.Release|x86.Build.0 = Release|Win32
+		{6EC796EC-50B1-4FAD-98AE-353C504A5777}.Debug|x64.ActiveCfg = Debug|x64
+		{6EC796EC-50B1-4FAD-98AE-353C504A5777}.Debug|x64.Build.0 = Debug|x64
+		{6EC796EC-50B1-4FAD-98AE-353C504A5777}.Debug|x86.ActiveCfg = Debug|Win32
+		{6EC796EC-50B1-4FAD-98AE-353C504A5777}.Debug|x86.Build.0 = Debug|Win32
+		{6EC796EC-50B1-4FAD-98AE-353C504A5777}.Release|x64.ActiveCfg = Release|x64
+		{6EC796EC-50B1-4FAD-98AE-353C504A5777}.Release|x64.Build.0 = Release|x64
+		{6EC796EC-50B1-4FAD-98AE-353C504A5777}.Release|x86.ActiveCfg = Release|Win32
+		{6EC796EC-50B1-4FAD-98AE-353C504A5777}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF91EB62-D99E-4A3E-86AC-3947C0D4E87E}
 	EndGlobalSection
 EndGlobal
